@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brian7650
-- 👀 I’m interested in Brian B
+- 👀 I’m interested in programming and learning about javascript
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
