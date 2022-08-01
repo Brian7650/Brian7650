@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian7650
 - 👀 I’m interested in Full Stack Developer in the Front-end and Back-end for Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Javascript, React, Node,js, CSS3, HTML5, Flexbox, Grid, npm, Git and other fun stuff.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
