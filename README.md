@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brian7650
-- 👀 I’m interested in programming and learning about javascript
+- 👀 I’m interested in Full Stack Developer in the Front-end and Back-end for Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
