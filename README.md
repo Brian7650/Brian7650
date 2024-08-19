@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Brian7650
 
-- 👀 I am a Full Stack Developer who work in the Front-end and Back-end for Web Development.
-- I use PERN Stack and MERN Stack for Web Development.
-- 🌱 I’m currently learning Python and C#.
+I am a Full Stack Developer who work in the Front-end and Back-end for Web Development.
+
+I use PERN Stack and MERN Stack for Web Development.
+
+🌱 I’m currently learning Python and C#.
 
 📫 How to reach me ...
 My portfolio: https://brian7650.github.io/brian-portfolio-2.1/
