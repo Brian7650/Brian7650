@@ -8,7 +8,9 @@ I use PERN Stack and MERN Stack for Web Development.
 
 📫 How to reach me ...
 My portfolio: https://brian7650.github.io/brian-portfolio-2.1/
-My blog: 
+
+
+My blog: https://dashboard.render.com/web/srv-cqvvo6tumphs738uosl0
 
 <!---
 Brian7650/Brian7650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
