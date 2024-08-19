@@ -6,7 +6,8 @@ I use PERN Stack and MERN Stack for Web Development.
 
 🌱 I’m currently learning Javascript, Python and C#.
 
-📫 How to reach me ...
+📫 How to reach me:
+
 My portfolio: https://brian7650.github.io/brian-portfolio-2.1/
 
 
