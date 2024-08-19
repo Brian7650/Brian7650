@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brian7650
+👋 Hi, I’m @Brian7650
 
 I am a Full Stack Developer who work in the Front-end and Back-end for Web Development.
 
