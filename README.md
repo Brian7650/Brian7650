@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer who work in the Front-end and Back-end for Web Development.
 
-I use PERN Stack and MERN Stack for Web Development.
+I use PERN and MERN Stack for Web Development.
 
 🌱 I’m currently learning Javascript, Python and C#.
 
