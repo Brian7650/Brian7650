@@ -11,7 +11,7 @@ I use PERN and MERN Stack for Web Development.
 My portfolio: https://brian7650.github.io/brian-portfolio-2.1/
 
 
-My blog: https://dashboard.render.com/web/srv-cqvvo6tumphs738uosl0
+My blog: https://zanoah-fullstack.onrender.com
 
 <!---
 Brian7650/Brian7650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
