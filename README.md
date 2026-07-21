@@ -8,7 +8,7 @@ I use PERN and MERN Stack for Web Development.
 
 📫 How to reach me:
 
-My portfolio: https://brian7650.github.io/brian-portfolio-2.1/
+My portfolio: [https://brian7650.github.io/brian-portfolio-2.1/](https://brian-portfolio-1haa.onrender.com)
 
 
 My blog: https://zanoah-fullstack.onrender.com
